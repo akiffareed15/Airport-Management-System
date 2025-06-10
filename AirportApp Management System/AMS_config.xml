@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>E:\Airport mgts\AirportApp\AirportApp.jar</jar>
+  <outfile>C:\Users\xRain\Desktop\AMS.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>E:\Flight png.ico</icon>
+  <classPath>
+    <mainClass>com.airport.app.FlightApp</mainClass>
+    <cp>E:\javafx-sdk-24.0.1\lib\*</cp>
+  </classPath>
+  <jre>
+    <path>%JAVA_HOME%;%PATH%</path>
+    <requiresJdk>true</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion>24</minVersion>
+    <maxVersion></maxVersion>
+    <opt>   --module-path E:\javafx-sdk-24.0.1\lib --add-modules javafx.controls,javafx.fxml</opt>
+  </jre>
+</launch4jConfig>
