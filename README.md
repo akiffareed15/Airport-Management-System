@@ -1,3 +1,4 @@
+
 # ✈️ AirportApp Management System
 
 A Java-based desktop application designed to manage airport operations such as flight passenger bookings, check-in, and reporting. The system includes an animated loading screen and a clean, user-friendly JavaFX GUI.
@@ -89,14 +90,14 @@ java -jar AirportApp.jar
 
 ## 🖥️ User Interface
 
+
 ### 🎬 Animated Loading Screen
 
 The app starts with a beautiful loading screen to enhance user experience.
 
 
-```
-!![1](https://github.com/user-attachments/assets/2e6aadac-8bae-4da5-84aa-bc3b5028b0c8)
 
+![Loading Screen](https://raw.githubusercontent.com/akiffareed15/Airport-Management-System/1c9f823c7702766022aa3e52989ce0ac31348fad/1.png)
 ```
 > Fade-in Animated Login Interface
 ```
@@ -187,7 +188,7 @@ Steps:
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
+ 
 ---
 
 ## 📬 Contact
